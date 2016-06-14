@@ -1,5 +1,5 @@
 1.环境ant1.9 tomcat8.0
-2.记得设置tomcat server.xml文件，主要添加用户权限
+2.记得设置tomcat tomcat-users.xml文件，主要添加用户权限
   <role rolename="tomcat"/>  
   <role rolename="manager"/>      
   <role rolename="manager-script"/>  
